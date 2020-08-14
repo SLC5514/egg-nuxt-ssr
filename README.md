@@ -6,7 +6,6 @@
   增加 npm run asyncdb 命令；方便同步数据库
   nuxt文件在根目录 nuxt文件夹下，打包完成的文件在根目录.nuxt文件夹下。增加elementui框架，可直接使用。
 
-
 ## 开始
 
   拉取代码 
@@ -30,4 +29,3 @@
   $ npm start
   $ npm stop
   ```
-
